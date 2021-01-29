@@ -1,6 +1,7 @@
 /*
  * Solved By : Hydrolyzed_
  * Notation  : O(n)
+ * Memory    : O(n)
  * */
 
 #include<bits/stdc++.h>
